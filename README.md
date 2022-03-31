@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hola 👋!
 
-<!--
-**FranCalderon67/FranCalderon67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador front end y estudiante de back end para llegar a ser full stack.
+Actualmente estoy en la búsqueda de mis primeras experiencias en desarrollo y en constante
+aprendizaje.
 
-Here are some ideas to get you started:
+### Tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Lenguajes
+
+
+ |![](https://camo.githubusercontent.com/0734b6e3e51fd74ee64632164fe978eeaa0fdc4c3bc8d05b7d47e03c4d8a3203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) | ![](https://camo.githubusercontent.com/2dcd1e7cfaebfb6882ebdf1a4ce1c8545de373f5b8a5db75afbf853f9be7faca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3233393132303f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) |
+
+
+
+
+
+#### Front End 
+![](https://camo.githubusercontent.com/e10320df09d2d95e5a1cc8f0ce1b52538db9d62eff2725f3a594995babae60c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
