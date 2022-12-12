@@ -3,7 +3,7 @@
 
 ## Hola 👋!
 
-Soy desarrollador front end y estudiante de back end para llegar a ser full stack.
+Soy desarrollador fullstack.
 Actualmente estoy en la búsqueda de mis primeras experiencias en desarrollo y en constante
 aprendizaje.
 
